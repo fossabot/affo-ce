@@ -1,0 +1,7 @@
+coverage==4.5.1
+pytest==3.9.1
+pytest-cov==2.7.1
+pytest-freezegun==0.3.0.post1
+pytest-mock==1.10.1
+pytest-toolbelt==0.1.0
+requests-mock==1.6.0
