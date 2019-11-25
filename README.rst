@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faffoio%2Faffo-ce.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faffoio%2Faffo-ce?ref=badge_shield)
+
 |Build Status| |Coverage Status| |Code Style|
 
 AFFO CE
@@ -16,3 +18,7 @@ AFFO CE
    :target: https://coveralls.io/github/affoio/affo-ce?branch=master
 .. |Code Style| image:: https://img.shields.io/badge/code%20style-black-000000.svg
    :target: https://github.com/psf/black
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faffoio%2Faffo-ce.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faffoio%2Faffo-ce?ref=badge_large)
